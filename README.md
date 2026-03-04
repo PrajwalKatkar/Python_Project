@@ -1,5 +1,4 @@
-Automated Inventory & Vendor Billing Ecosystem
-
+📦 Automated Inventory & Vendor Billing Ecosystem
 📖 Project Description
 
 The Automated Inventory & Vendor Billing Ecosystem is a Python-based mini project that manages a shop’s inventory using Lists and Tuples for data storage and NumPy for stock calculations.
@@ -10,11 +9,17 @@ This project demonstrates modular programming using three files: main.py, invent
 🎯 Objectives
 
 Manage inventory efficiently
+
 Store item details using Lists and Tuples
+
 Perform stock calculations using NumPy
+
 Track vendor information
+
 Generate Annual Purchase Report
+
 Provide search functionality by Item ID
+
 Alert user when stock is below a threshold
 
 🗂 Project Structure
@@ -24,21 +29,28 @@ InventoryProject/
 ├── inventory.py
 ├── vendor.py
 └── README.md
-
 ⚙️ Technologies Used
 
 Python
+
 NumPy
+
 Lists & Tuples
+
 Modular Programming
 
 🧩 Features
 
 🔍 Search item by Item ID
+
 ⚠️ Low stock alert system
+
 📊 Annual Purchase Report generation
+
 🧾 Vendor details management
+
 🧮 Stock value calculation using NumPy
+
 📁 Modular code structure
 
 📝 Conclusion
@@ -49,5 +61,7 @@ It improves accuracy, reduces manual effort, and demonstrates core programming c
 👨‍💻 Author
 
 Developed by: Prajwal Katkar
+
 Course: B.Tech Computer Science & Engineering
+
 Semester: 4th
